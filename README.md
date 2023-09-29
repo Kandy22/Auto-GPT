@@ -1,5 +1,5 @@
 ## TEST NEW LLMs (Llama2, WizardCoder, etc.)
-If you're trying to test other LLMs (codellama, wizardcoder, etc.) with GPT-Engineer, we just open-sourced a 1-click proxy to translate openai calls to huggingface, anthropic, togetherai, etc. api calls.
+If you're trying to test other LLMs (codellama, wizardcoder, etc.) with Auto-gpt, we just open-sourced a 1-click proxy to translate openai calls to huggingface, anthropic, togetherai, etc. api calls.
 
 **code**
 ```
